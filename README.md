@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,4 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+>>>>>>> 4135ac57dd9d7d39c8249d86d895ba9730655a6d
+"# RAProject1" 
 "# RAProject1" 
